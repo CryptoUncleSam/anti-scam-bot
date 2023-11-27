@@ -1,0 +1,21 @@
+{
+  "name": "bb_discord_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./discord.ts",
+    "scam": "ts-node ./scambot.ts"
+
+  },
+  "dependencies": {
+    "@types/node": "^18.16.2",
+    "discord.js": "^14.11.0",
+    "typescript": "^5.0.4",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.4",
+    "ts-node": "^10.9.1"
+  }
+}
