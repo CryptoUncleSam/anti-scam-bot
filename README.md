@@ -1,5 +1,5 @@
 # anti-scam-bot
-Bot that checks all messages in server and delete embeded messages and flag the send to futher ban
+Bot that checks all messages in server and delete embeded messages and flag the sender to futher ban
 
 Git clone
 
